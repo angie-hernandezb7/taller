@@ -1,0 +1,40 @@
+body{
+    background: url('https://lobbyfix.com/wp-content/uploads/2021/08/office.jpg') no-repeat;
+    background-size: cover;
+}
+.main-frame-cal{
+    width: 50%;
+    padding: 50px;
+    height: 450px;
+    border-radius: 30px;
+    background-color: rgba(217, 217, 217, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(5, 170, 211, 0.775);
+    margin: 7% auto;
+}
+.main-frame-cal label{
+    font-weight: bold;
+}
+button{
+    float: right;
+}
+.home{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
+/*pie de página*/
+.nombre {
+    text-align: center;
+    font-family: 'Gill Sans';
+    font-size: 25px;
+    color: rgb(252, 248, 248);
+    border: 10px double rgba(43, 0, 83, 0.712);
+    border-radius: 7px;
+    margin-top: 220px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    background-color: rgba(26, 18, 143, 0.712);
+    }
